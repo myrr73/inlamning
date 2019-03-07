@@ -1,0 +1,15 @@
+$colors:(
+    primary: rgba(0,0,0, .6),
+    secondary: rgba(0,0,0, 1),
+    background: rgba(130, 13, 255, 0.8),
+);
+
+$standard: 0 20px;
+
+
+
+
+
+@function color($color-name){
+    @return map-get($colors, $color-name)
+};

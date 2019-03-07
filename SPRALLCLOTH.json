@@ -1,0 +1,22 @@
+{ "inStock":[
+
+    {"id":"001","name":"Angry Cupcake Body", "image": "//placehold.it/200", "size":"0-3m",  "info":"Angry cupcake","color":"Lightyellow","price":149},
+    {"id":"002","name":"Happy Donut T-shirt","image": "//placehold.it/200", "size":"0-3m",  "info":"Happy donut",  "color":"Lightyellow","price":149},
+    {"id":"003","name":"Angry Cupcake Body", "image": "//placehold.it/200", "size":"4-6m",  "info":"Angry cupcake","color":"Lightgrey",  "price":169},
+    {"id":"004","name":"Happy Donut T-shirt","image": "//placehold.it/200", "size":"4-6m",  "info":"Happy donut",  "color":"Lightgrey",  "price":169},
+    {"id":"005","name":"Angry Cupcake Body", "image": "//placehold.it/200", "size":"7-9m",  "info":"Angry cupcake","color":"Lightpink",  "price":179},
+    {"id":"006","name":"Happy Donut T-shirt","image": "//placehold.it/200", "size":"7-9m",  "info":"Happy donut",  "color":"Lightpink",  "price":179},
+    {"id":"007","name":"Angry Cupcake Body", "image": "//placehold.it/200", "size":"10-12m","info":"Angry cupcake","color":"Lightbrown", "price":199},
+    {"id":"008","name":"Happy Donut T-shirt","image": "//placehold.it/200", "size":"10-12m","info":"Happy donut",  "color":"Lightbrown", "price":199},
+    {"id":"009","name":"Angry Cupcake Body", "image": "//placehold.it/200", "size":"12-18m","info":"Angry cupcake","color":"Lightcoral", "price":239},
+    {"id":"010","name":"Happy Donut T-shirt","image": "//placehold.it/200", "size":"12-18m","info":"Happy donut",  "color":"Lightcoral", "price":239},
+    {"id":"011","name":"Angry Cupcake Body", "image": "//placehold.it/200", "size":"1½-2y", "info":"Angry cupcake","color":"Lightblue",  "price":259},
+    {"id":"012","name":"Happy Donut T-shirt","image": "//placehold.it/200", "size":"1½-2y", "info":"Happy donut",  "color":"Lightblue",  "price":259},
+    {"id":"013","name":"Angry Cupcake Body", "image": "//placehold.it/200", "size":"2-3y",  "info":"Angry cupcake","color":"Lightgreen", "price":299},
+    {"id":"014","name":"Happy Donut T-shirt","image": "//placehold.it/200", "size":"2-3y",  "info":"Happy donut",  "color":"Lightgreen", "price":299},
+    {"id":"015","name":"Angry Cupcake Body", "image": "//placehold.it/200", "size":"4-6y",  "info":"Angry cupcake","color":"Lightred",   "price":299},
+    {"id":"016","name":"Happy Donut T-shirt","image": "//placehold.it/200", "size":"4-6y",  "info":"Happy donut",  "color":"Lightred",   "price":299}
+]
+}
+
+
